@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
+//Git test comment
+
 namespace ProductsApp.Models
 {
     public class Product
